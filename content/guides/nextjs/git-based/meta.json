@@ -2,16 +2,16 @@
   "title": "A Git-Based Approach with Next.js",
   "steps": [
     {
-      "title": "Getting Started",
-      "id": "/guides/nextjs/git-based/getting-started",
-      "slug": "/guides/nextjs/git-based/getting-started",
-      "data": "./getting-started.md"
-    },
-    {
       "title": "Adding a Backend",
       "id": "/guides/nextjs/git-based/adding-backend",
       "slug": "/guides/nextjs/git-based/adding-backend",
       "data": "./adding-backend.md"
+    },
+    {
+      "title": "Getting Started",
+      "id": "/guides/nextjs/git-based/getting-started",
+      "slug": "/guides/nextjs/git-based/getting-started",
+      "data": "./getting-started.md"
     },
     {
       "title": "Creating Git Forms",
