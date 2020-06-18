@@ -18,6 +18,12 @@
       "id": "/guides/nextjs/git-based/adding-backend",
       "slug": "/guides/nextjs/git-based/adding-backend",
       "data": "./adding-backend.md"
+    },
+    {
+      "title": "nextjs/github-open-authoring/asdf",
+      "id": "/guides/nextjs/github-open-authoring/asdf",
+      "slug": "/guides/nextjs/github-open-authoring/asdf",
+      "data": "./asdf.md"
     }
   ]
 }
